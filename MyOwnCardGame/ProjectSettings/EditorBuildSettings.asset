@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 1f245941288a5d54e82aa94e2f21a4fe
+  - enabled: 1
+    path: Assets/Scenes/Numbers/1Numbers.unity
+    guid: 3cd37c9a9df596640a55dfee8da5a910
+  - enabled: 1
+    path: Assets/Scenes/Numbers/2Numbers.unity
+    guid: 0f3f4bf85773ea14ea28fb80c89ba30d
+  - enabled: 1
+    path: Assets/Scenes/Numbers/3Numbers.unity
+    guid: 1d108420a77af0c48916fa3dad90d962
+  - enabled: 1
+    path: Assets/Scenes/Numbers/4Numbers.unity
+    guid: 1c503f8d051021f458c56682247b2af8
+  - enabled: 1
+    path: Assets/Scenes/Animals/1Animals.unity
+    guid: b9c9287e44be9e644ac94cd8d152c9f7
+  - enabled: 1
+    path: Assets/Scenes/Animals/2Animals.unity
+    guid: 5e5300fb1ae21d947995a38ef4a3ff16
+  - enabled: 1
+    path: Assets/Scenes/Animals/3Animals.unity
+    guid: 0d98631abd16134459903af0f768377a
+  - enabled: 1
+    path: Assets/Scenes/Animals/4Animals.unity
+    guid: 9fbae6acab6862b41844317c6a6e2851
+  m_configObjects: {}
