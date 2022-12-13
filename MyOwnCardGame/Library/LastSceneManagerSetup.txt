@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Animals/2Animals.unity
+- path: Assets/Scenes/Numbers/1Numbers.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
