@@ -30,7 +30,6 @@ public class GameManager : MonoBehaviour
 
     public void AddCardtoPickedList(Card card)
     {
-        //naprawienie buga, który sprawia³ ¿e po dwukrotnym klikniecu na ten sam obrazek znajdowalo nam match na tym samym obrazku
         if (pickedCards.Contains(card))
         {
             return;

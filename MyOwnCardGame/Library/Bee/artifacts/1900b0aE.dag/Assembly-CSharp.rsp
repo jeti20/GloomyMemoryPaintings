@@ -372,6 +372,7 @@
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/MenuButtons.cs"
 "Assets/Scripts/PlayerInput.cs"
+"Assets/Scripts/SoundSettings.cs"
 -langversion:9.0
 
 /deterministic
