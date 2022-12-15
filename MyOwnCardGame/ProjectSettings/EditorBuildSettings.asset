@@ -32,4 +32,28 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Animals/4Animals.unity
     guid: 9fbae6acab6862b41844317c6a6e2851
+  - enabled: 1
+    path: Assets/Scenes/Abstraction/1Abstraction.unity
+    guid: 0d060cec2eb8091468f54704977f0f28
+  - enabled: 1
+    path: Assets/Scenes/Abstraction/2Abstraction.unity
+    guid: 7a340fb4fe9afb6458defd6c8632d792
+  - enabled: 1
+    path: Assets/Scenes/Abstraction/3Abstraction.unity
+    guid: 8a40b09690df5ca4683fcc40d87628bb
+  - enabled: 1
+    path: Assets/Scenes/Abstraction/4Abstraction.unity
+    guid: 22a1c4cc434d119409643c7da44303aa
+  - enabled: 1
+    path: Assets/Scenes/Items/1Items.unity
+    guid: f19aaebfe8389ff418e7d072f5a311ce
+  - enabled: 1
+    path: Assets/Scenes/Items/2Items.unity
+    guid: 322d36d6dab4bfe4b86f70738b906831
+  - enabled: 1
+    path: Assets/Scenes/Items/3Items.unity
+    guid: 90dce62a28eabd541a9f166aa671e2ca
+  - enabled: 1
+    path: Assets/Scenes/Items/4Items.unity
+    guid: 9e8bcb096fdb77446bb737d3ee7d126e
   m_configObjects: {}
